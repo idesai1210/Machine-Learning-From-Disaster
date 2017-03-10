@@ -1,0 +1,10 @@
+-> There are 3 members in the team: Ishan Desai, Milav Shah and Silpy Jain, 
+	in this team working together to use different machine learning methods to do the prediction:
+-> Ishan Desai: Problem analysis, feature importance evaluation,SVM
+		code implementation, dataset analysis, visualization,
+		testing and debugging, Writing.
+-> Milav Shah:  Dataset analysis, kNN code Implementation
+		random forest code implementations,
+		visualization, algorithm, testing and debugging, writing.
+-> Silpy Jain: 	Problem analysis, Decision tree implementation, Neural Network implementation
+		visualization, algorithm development,writing.
